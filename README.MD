@@ -6,8 +6,8 @@
 </h3>
 <p align="center">
   Platform &bull; 
-  <a href="https://github.com/actorapp/actor-bootstrap">Bootstrap</a> &bull; 
-  <a href="https://github.com/actorapp/actor-bots">Bots</a>
+ 
+  <a href="#">Bots</a>
 </p>
 -------
 
